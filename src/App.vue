@@ -12,5 +12,11 @@ export default {
 </script>
 
 <style>
+::-webkit-scrollbar{
+    display: none;
 
+}
+#app {
+  background-color: sienna;
+}
 </style>

@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": " E-commerece  ",
+      "img": "https://i.postimg.cc/mrxk0p7t/Screenshot-2023-07-05-085833.png",
+      "description": "Glamour City sells makeup products."
+    },
+    {
+      "id": "2",
+      "name": " To-do-list",
+      "img": "https://i.postimg.cc/90jZBFQF/Screenshot-2023-07-05-090834.png",
+      "description": "Sorts and adds errands"
+    },
+    {
+      "id": "3",
+      "name": "Arrays ",
+      "img": "https://i.postimg.cc/158M54Vb/Screenshot-2023-07-05-091356.png",
+      "description": "Adds and subtracts arrays"
+    },
+
+    {
+      "id": "4",
+      "name": " BMI calculator ",
+      "img": "https://i.postimg.cc/T1cPznnF/Screenshot-2023-07-05-092442.png",
+      "description": "Caculates Body Mass Index "
+    },
+    {
+      "id": "5",
+      "name": "Calculator ",
+      "img": "https://i.postimg.cc/cJQ67qrd/Screenshot-2023-07-05-092643.png",
+      "description": "Clears , sorts and numbers."
+    },
+
+    {
+      "id": "6",
+      "name": "Digital Porfilo",
+      "img": "https://i.postimg.cc/QNn5d37z/Screenshot-2023-07-05-092958.png",
+      "description": "Digitial Porfilo of myself"
+    },
+
+    {
+      "id": "7",
+      "name": " E-commerce Website  ",
+      "img": "https://i.postimg.cc/pdHC2Hjj/Screenshot-2023-07-05-093546.png",
+      "description": "It promotes the brand"
+    }
+  ]
+}

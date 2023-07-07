@@ -1,0 +1,41 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": " Ayesha Galant ",
+      "img": "https://i.postimg.cc/SKwjCSyT/C12-Ayesha-Galant-Class1-3.jpg",
+      "testimony": "Lisa is dedicated and very passionate about her work. Working together makes me motivated to go above and beyond to reach our goals and of course, having fun while doing so"
+    },
+    {
+      "id": "2",
+      "name": " Ethan Oliver  ",
+      "img": "https://i.postimg.cc/DyHztfG2/IMG-9863-1.jpg",
+      "testimonials": "I am thrilled to share my positive testimonial about my experience with Lisa Mbuwa. From the moment I first met Lisa Mbuwa I was impressed. Her dedication to excellence and drive to achieve was evident in every interaction I had with her. Her positive attitude and passion for their work are infectious, and they have a unique ability to inspire and motivate others to achieve their best. They are always willing to go the extra mile to ensure that the project is completed"
+    },
+    {
+      "id": "3",
+      "name": " Inam Nkabi  ",
+      "img": "https://i.postimg.cc/mrxk0p7t/Screenshot-2023-07-05-085833.png",
+      "testimonials": "Working with Lisa on this very difficult project was a pleasure. Lisa is good at seeing the bigger picture or everything. Her ability to asses a situation from all angles and see the countless of potential consequences of a particular course of action was very helpful."
+    },
+
+    {
+      "id": "4",
+      "name": "  Zulaigh Benjamin ",
+      "img": "https://i.postimg.cc/qMrvmNVy/Zulaigh-s.jpg",
+      "testimonials": "Lisa is a very hardworking and dedicated person. She doesn't give up as easy as everyone else. Every goal that she has set for herself, he has achieved.  She's not stopping till she reaches the top. She is a motivation to everyone around her, and her personality makes others not give up and and reach their full potential"
+    },
+    {
+      "id": "5",
+      "name": " Waydin Jochem ",
+      "img": "https://i.postimg.cc/rmj2QCBP/Waydin-Jochem-C12-C1-25-Apr23-2.jpg",
+      "testimonials": "Lisa is an enthusiastic person, who is always willing to improve upon her mistakes. She's constantly interacting with other people  learningdifferent skills each day and often-times shares her skills with her colleagues at work. There's hardly ever an unpleasant moment when she is around and heis a constant source of joy in the workplace."
+    },
+    {
+      "id": "6",
+      "name": " Samkelo Mpokela ",
+      "img": "https://i.postimg.cc/T1Fy3DRC/C12-Samkelo-Mpokela-Class1-1.jpg ",
+      "testimonials": "Glamour City sells makeup products."
+    }
+  ]
+}

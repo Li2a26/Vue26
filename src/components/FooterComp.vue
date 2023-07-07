@@ -1,78 +1,128 @@
 <template >
-    <footer class="text-center text-white" style="background-color:rgb(168, 104, 28); margin-top:61px;">
+ 
+  <!-- Footer -->
+  <footer
+          class="text-center text-lg-start text-white  "
+          style="background-color:rgb(238,197,158);;"
+          >
     <!-- Grid container -->
-    <div class="container pt-4">
-      <!-- Section: Social media -->
-      <section class="mb-4">
-        <!-- Facebook -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="https://www.facebook.com"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-facebook-f"></i
-        ></a>
-  
-        <!-- Twitter -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="https://twitter.com"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-twitter"></i
-        ></a>
-  
-        <!-- Google -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="#!"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-google"></i
-        ></a>
-  
-        <!-- Instagram -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="https://www.instagram.com"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-instagram"></i
-        ></a>
-  
-        <!-- Linkedin -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="https://za.linkedin.com"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-linkedin"></i
-        ></a>
-        <!-- Github -->
-        <a
-          class="btn btn-link btn-floating btn-lg text-dark m-1"
-          href="#!"
-          role="button"
-          data-mdb-ripple-color="dark"
-          ><i class="fab fa-github"></i
-        ></a>
+    <div class="container p-4 pb-0">
+      <!-- Section: Links -->
+      <section class="">
+        <!--Grid row-->
+        <div class="row">
+          <!-- Grid column -->
+          <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class=" mb-4 ">
+              Location
+            </h6>
+            <p class="fs-6">
+                5702 Lilian Ngoyi Drive Samora Machel 
+                Weltevreden Valley North Cape Town 7784
+              
+            </p>
+          </div>
+          
+
+          
+
+          <hr class="w-100 clearfix d-md-none" />
+
+          <!-- Grid column -->
+          <hr class="w-100 clearfix d-md-none" />
+
+          <!-- Grid column -->
+          <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold fs-6">Contact</h6>
+            <p class="fs-6"><i class="fas fa-envelope mr-3"></i> mbuwalisa@gmail.com</p>
+            <p class="fs-6"><i class="fas fa-phone "></i> + 01 234 567 88</p>
+
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+            <h6 class="text-uppercase mb-4 font-weight-bold">Follow us</h6>
+
+            <!-- Facebook -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #3b5998"
+               href="#!"
+               role="button"
+               ><i class="fab fa-facebook-f"></i
+              ></a>
+
+            <!-- Twitter -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #55acee"
+               href="#!"
+               role="button"
+               ><i class="fab fa-twitter"></i
+              ></a>
+
+            <!-- Google -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #dd4b39"
+               href="#!"
+               role="button"
+               ><i class="fab fa-google"></i
+              ></a>
+
+            <!-- Instagram -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #ac2bac"
+               href="#!"
+               role="button"
+               ><i class="fab fa-instagram"></i
+              ></a>
+
+            <!-- Linkedin -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #0082ca"
+               href="#!"
+               role="button"
+               ><i class="fab fa-linkedin-in"></i
+              ></a>
+            <!-- Github -->
+            <a
+               class="btn btn-primary btn-floating m-1"
+               style="background-color: #333333"
+               href="#!"
+               role="button"
+               ><i class="fab fa-github"></i
+              ></a>
+          </div>
+        </div>
+        <!--Grid row-->
       </section>
-      <!-- Section: Social media -->
+      <!-- Section: Links -->
     </div>
     <!-- Grid container -->
-  
+
     <!-- Copyright -->
-    <div class="text-center text-dark p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+    <div
+         class="text-center p-3 fs-6"
+         style="background-color: rgba(0, 0, 0, 0.2)"
+         >
       © 2023 Copyright:
-      <a class="text-dark" href="https://mdbootstrap.com/">LisaMbuwa</a>
-      <p>email:mbuwalisa@gmail.com</p>
+      <a class="text-white fs-6" href="https://mdbootstrap.com/"
+         >Lisa Mbuwa</a
+        >
     </div>
     <!-- Copyright -->
   </footer>
+  <!-- Footer -->
+
+<!-- End of .container -->   
 
 
 
-    <h2></h2>
+    
 </template>
 <script>
 export default {
@@ -80,11 +130,11 @@ export default {
 }
 </script>
 <style scoped>
-    .footer {
+    /* .footer {
         position: fixed;
         bottom: 0;
         left: 0;
-        height: 90px;
+       
         background-color:burlywood ;
     }
     .footer-text-left {
@@ -96,5 +146,5 @@ export default {
     .menu:hover {
         background-color:antiquewhite;
         font-size: 20px;
-    }
+    } */
 </style>
