@@ -48,7 +48,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #3b5998"
-               href="#!"
+               href="https://www.facebook.com/"
                role="button"
                ><i class="fab fa-facebook-f"></i
               ></a>
@@ -57,7 +57,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #55acee"
-               href="#!"
+               href="https://twitter.com/i/flow/login?redirect_after_login=%2F%3Flang%3Den"
                role="button"
                ><i class="fab fa-twitter"></i
               ></a>
@@ -66,7 +66,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #dd4b39"
-               href="#!"
+               href="https://www.google.com/"
                role="button"
                ><i class="fab fa-google"></i
               ></a>
@@ -75,7 +75,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #ac2bac"
-               href="#!"
+               href="https://www.instagram.com/"
                role="button"
                ><i class="fab fa-instagram"></i
               ></a>
@@ -84,7 +84,7 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #0082ca"
-               href="#!"
+               href="https://www.linkedin.com/login"
                role="button"
                ><i class="fab fa-linkedin-in"></i
               ></a>
@@ -92,11 +92,12 @@
             <a
                class="btn btn-primary btn-floating m-1"
                style="background-color: #333333"
-               href="#!"
+               href="https://github.com/"
                role="button"
                ><i class="fab fa-github"></i
               ></a>
           </div>
+      
         </div>
         <!--Grid row-->
       </section>

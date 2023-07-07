@@ -1,24 +1,9 @@
 <template>
-  <div class="container">
-    <!-- <div class="row ">
-      <div class="col-md-4">
-        <div class="card m-3" style="width: 20rem">
-          <router-link :to="{ name: 'projects', params: { id: project.id } }">
-            <img :src="project.img" :alt="project.title" id="mbuwa" />
-            <div class="card-body">
-              <h5 class="card-title">{{ project.name }}</h5>
-              <p class="card-text">{{ project.description }}</p>
-              <a class="btn btn-primary" href="">View Code</a>
-              <a class="btn btn-primary">View project</a>
-            </div>
-          </router-link>
-        </div>
-      </div>
-    </div> -->
-    <div class="row justify-content-center gap-3">
-        <div class="card m-5 pb-5 box" style="width: 20rem" v-for="project in project" :key="project.id">
+  <div class="container m-2">
+    <div class="row justify-content-center">
+        <div class="card border-0 mx-5 my-5 box" style="width: 20rem" v-for="project in project" :key="project.id">
           <div :to="{ name: 'projects', params: { id: project.id } }">
-            <img :src="project.img" :alt="project.title" id="pro" class="image mb-5" />
+            <img :src="project.img" :alt="project.title" id="pro" class="image" />
             <div class="card-body back">
               <h5 class="card-title">{{ project.name }}</h5>
               <p class="card-text desc">{{ project.description }}</p>

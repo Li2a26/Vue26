@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Playfair:ital,wght@1,300&family=Quicksand&family=Roboto:ital,wght@1,300&display=swap');
+::-webkit-scrollbar{
+    display: none;
+
+}
+#app {
+  background-color: sienna;
+  font-family: 'Nanum Gothic', sans-serif;
+font-family: 'Playfair', serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto', sans-serif;
+}

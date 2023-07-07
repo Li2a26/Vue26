@@ -60,7 +60,31 @@ export default {};
   font-size: 17px; 
 }
 .links:hover {
+  scale: 1.1;
+  animation: transUpDown 900ms cubic-bezier(0.175, 0.885, 0.32, 0.275) infinite;
   color: lightpink;
+}
+@keyframes transUpDown {
+  0% {
+    opacity: 1;
+    transform: translateY(px);
+  }
+  25% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  75% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
 }
 
 

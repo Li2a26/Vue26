@@ -78,9 +78,6 @@ As a software development student, I am eager to embark on a professional journe
   color: lightcoral;
   font-size: bold;
 }
-#app {
-background-color: sienna;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+
 
 </style>
